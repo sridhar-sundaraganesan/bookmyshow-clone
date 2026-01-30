@@ -1,6 +1,9 @@
 const express = require('express')
 const app = express();
 const path = require('path')
+
+
+
 const homeRouter = require('../bookMyShow/routes/home')
 const movieRouter = require('../bookMyShow/routes/rent')
 
