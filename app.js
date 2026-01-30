@@ -4,6 +4,7 @@ const path = require('path')
 const homeRouter = require('../bookMyShow/routes/home')
 const movieRouter = require('../bookMyShow/routes/rent')
 
+
 app.use(homeRouter)
 app.use(movieRouter)
 
