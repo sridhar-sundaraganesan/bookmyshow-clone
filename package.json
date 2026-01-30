@@ -1,13 +1,13 @@
 {
   "name": "bookmyshowapp",
   "version": "1.0.0",
-  "description": "Book my show ticketing app",
+  "description": "Bookmyshow ticket partner",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
   },
-  "author": "Sridhar Sundaraganesan and Janani",
+  "author": "Sridhar Sundaraganesan",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^2.2.2",
